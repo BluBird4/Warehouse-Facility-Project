@@ -12,5 +12,5 @@ Rewards:
 If you contribute to this repository you will earn a handful of rewards whether your contribution was used or not , these rewards are sponsored by GitHub for students collaboration and contribution , In order to claim your rewards please make sure you include your GUC E-mail in the Pull merge request.
 Check the folder of GitHub rewards and open the HTML file for all the rewards.
 
-
+This is a change to the file that will be pushed to git
 
